@@ -1,0 +1,3 @@
+@echo off
+cd desktop\projects\python\disipline
+python disipline.py
